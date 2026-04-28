@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "isidoraillanes-prog",
+      "avatar_url": "https://avatars.githubusercontent.com/u/279880898?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "isidoraillanes-prog",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-04-28T01:34:37.488Z",
-    "updated_at": "2026-04-28T01:34:37.488Z"
-  }
+    "updated_at": "2026-04-28T01:34:37.488Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "b77f56ec-0471-46b7-ba0d-eadb85d0d5ab": {
+      "content": [],
+      "created_at": "2026-04-28T01:34:37.509Z",
+      "created_by": "isidoraillanes-prog",
+      "title": "Prueba",
+      "updated_at": "2026-04-28T01:34:37.509Z",
+      "updated_by": "isidoraillanes-prog",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "b77f56ec-0471-46b7-ba0d-eadb85d0d5ab"
+  ]
 }
